@@ -1,0 +1,55 @@
+.box {
+  display: flex;
+  border-width: 1px;
+  border-color: yellowgreen;
+  background-color: blue;
+  margin-right: 10pt;
+  margin-left: 10pt;
+  margin-top: 10pt;
+  height: screen;
+  text-align: justify;
+}
+
+.one {
+  flex: 1 1 auto;
+  border-width: 1px;
+  border-color: yellowgreen;
+  margin-right: 1pt;
+  margin-top: 1pt;
+  margin-left: 1pt;
+  margin-bottom: 1pt;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 40pt;
+  padding-bottom: 10pt;
+  
+}
+
+.two {
+  flex: 1 1 auto;
+  border-width: 1px;
+  border-color: yellowgreen;
+  margin-right: 1pt;
+  margin-top: 1pt;
+  margin-left: 1pt;
+  margin-bottom: 1pt;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 40pt;
+  padding-bottom: 10pt;
+}
+
+.three {
+  flex: 1 1 auto;
+  
+  border-width: 2px;
+  border-color: yellowgreen;
+  margin-right: 1pt;
+  margin-top: 1pt;
+  margin-left: 1pt;
+  margin-bottom: 1pt;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 40pt;
+  padding-bottom: 10pt;
+}
