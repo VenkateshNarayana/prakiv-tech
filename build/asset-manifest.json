@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.60765e45.css",
-    "main.js": "/static/js/main.a18dc21a.js",
+    "main.js": "/static/js/main.4c4ae529.js",
     "static/media/Prakiv_bg.JPG": "/static/media/Prakiv_bg.2e4f1411505c53007980.JPG",
     "static/media/theme_abstract.jpg": "/static/media/theme_abstract.4b0c0c503162e5dd9b96.jpg",
     "index.html": "/index.html",
-    "main.60765e45.css.map": "/static/css/main.60765e45.css.map",
-    "main.a18dc21a.js.map": "/static/js/main.a18dc21a.js.map"
+    "main.4c4ae529.js.map": "/static/js/main.4c4ae529.js.map"
   },
   "entrypoints": [
-    "static/css/main.60765e45.css",
-    "static/js/main.a18dc21a.js"
+    "static/js/main.4c4ae529.js"
   ]
 }
